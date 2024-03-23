@@ -1,6 +1,6 @@
 # Welcome to my Cybersecurity Toolkit!
-This is a repository of Cybersecurity tools and resources that I think are useful.
-Many of these are I believe taken from the Parrot OS default bookmarks. Some I have added myself.
+* This is a repository of Cybersecurity tools and resources that I think are useful.
+* Many of these are I believe taken from the Parrot OS default bookmarks. Some I have added myself.
 ---
 ## This is the Table of Contents to navigate around from
 
