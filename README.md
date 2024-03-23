@@ -6,7 +6,7 @@
 
 ## This is the Table of Contents to navigate around from
 
-## [Quick Access Tools](https://github.com/PanicAtTheCisco/Toolkit/wiki/Quick-Access-Tools)
+### [Quick Access Tools](https://github.com/PanicAtTheCisco/Toolkit/wiki/Quick-Access-Tools)
 ### [OSINT Services](https://github.com/PanicAtTheCisco/Toolkit/wiki/OSINT-Services)
 ### [Vuln DB](https://github.com/PanicAtTheCisco/Toolkit/wiki/Vuln-DB)
 ### [Privacy & Security](https://github.com/PanicAtTheCisco/Toolkit/wiki/Privacy-and-Security)
