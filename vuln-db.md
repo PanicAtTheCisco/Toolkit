@@ -2,13 +2,13 @@
 [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md)
 [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
-* https://www.exploit-db.com/
-* https://www.exploit-db.com/google-hacking-database
-* https://wpscan.com/wordpresses/
-* https://patchstack.com/database/
-* https://nvd.nist.gov/
-* https://www.cvedetails.com/
-* https://packetstormsecurity.com/
-* https://vuldb.com/
-* https://cxsecurity.com/exploit/
-* https://www.vulnerability-lab.com/
+* [https://www.exploit-db.com/](https://www.exploit-db.com/)
+* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
+* [https://wpscan.com/wordpresses/](https://wpscan.com/wordpresses/)
+* [https://patchstack.com/database/](https://patchstack.com/database/)
+* [https://nvd.nist.gov/](https://nvd.nist.gov/)
+* [https://www.cvedetails.com/](https://www.cvedetails.com/)
+* [https://packetstormsecurity.com/](https://packetstormsecurity.com/)
+* [https://vuldb.com/](https://vuldb.com/)
+* [https://cxsecurity.com/exploit/](https://cxsecurity.com/exploit/)
+* [https://www.vulnerability-lab.com/](https://www.vulnerability-lab.com/)
