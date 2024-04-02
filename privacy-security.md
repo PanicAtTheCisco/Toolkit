@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy and Security"
-permalink: /privacy-security
+permalink: /privacy-security.md
+---
 
 * https://www.eff.org/
 * https://ssd.eff.org/
