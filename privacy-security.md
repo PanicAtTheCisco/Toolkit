@@ -2,6 +2,7 @@
 [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md)
 [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
+### Privacy and Security Resources
 * [https://www.eff.org/](https://www.eff.org/)
 * [https://ssd.eff.org/](https://ssd.eff.org/)
 * [https://emailselfdefense.fsf.org/en/](https://emailselfdefense.fsf.org/en/)

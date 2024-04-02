@@ -2,6 +2,7 @@
 [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md)
 [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
+### Vulnerability Databases
 * [https://www.exploit-db.com/](https://www.exploit-db.com/)
 * [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
 * [https://wpscan.com/wordpresses/](https://wpscan.com/wordpresses/)
