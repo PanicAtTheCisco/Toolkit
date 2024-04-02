@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Learning Resources"
-permalink: /learning-resources
+permalink: /learning-resources.md
+---
 
 ### Programming
 * https://learn-bash.org/ - May not work
