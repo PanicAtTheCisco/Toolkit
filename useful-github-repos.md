@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Useful GitHub Repos"
-permalink: /useful-github-repos
+permalink: /useful-github-repos.md
+---
 
 * https://github.com/danielmiessler/SecLists
 * https://github.com/riramar/Web-Attack-Cheat-Sheet
