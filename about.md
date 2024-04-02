@@ -3,6 +3,7 @@
 [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md)
 [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
-### Bug Bounty Platforms
-* [https://www.hackerone.com/](https://www.hackerone.com/)
-* [https://www.bugcrowd.com/](https://www.bugcrowd.com/)
+### About
+* This is a repository of Cybersecurity tools and resources that I think are useful.
+* Many of these are I believe taken from the Parrot OS default bookmarks. Some I have added myself.
+* I won't be adding descriptions to everything as I don't feel like curating that. I will for some specific stuff though.
