@@ -1,9 +1,3 @@
----
-layout: page
-title: "Quick Access Tools"
-permalink: /quick-access.md
----
-
 ### These get their own section as I use these on a somewhat regular basis
 * [GTFO Bins](https://gtfobins.github.io/)
 * [LOLBAS](https://lolbas-project.github.io/#)
