@@ -7,3 +7,4 @@
 * This is a repository of Cybersecurity tools and resources that I think are useful.
 * Many of these are I believe taken from the Parrot OS default bookmarks. Some I have added myself.
 * I won't be adding descriptions to everything as I don't feel like curating that. I will for some specific stuff though.
+* Got the theme and idea for site style from [https://github.com/Rich-Sec/secnotes?tab=readme-ov-file](https://github.com/Rich-Sec/secnotes?tab=readme-ov-file)
