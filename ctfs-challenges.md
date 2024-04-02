@@ -1,6 +1,8 @@
+---
 layout: page
 title: "CTFs and Challenges"
-permalink: /ctfs-challenges
+permalink: /ctfs-challenges.md
+---
 
 ### Just a list of CTFs/ Challenges I have found fun
 * https://ctftime.org/
