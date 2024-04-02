@@ -1,6 +1,8 @@
+---
 layout: page
 title: "OSINT Services"
-permalink: /osint-services
+permalink: /osint-services.md
+---
 
 ### Air & Space Tracking
 * https://globe.adsbexchange.com/
