@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Vuln DB"
-permalink: /vuln-db
+permalink: /vuln-db.md
+---
 
 * https://www.exploit-db.com/
 * https://www.exploit-db.com/google-hacking-database
