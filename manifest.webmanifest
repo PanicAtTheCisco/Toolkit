@@ -1,0 +1,17 @@
+{
+  "name": "Toolkit PWA",
+  "short_name": "Toolkit",
+  "description": "Toolkit as a Progressive Web App",
+  "scope": "/Toolkit/",
+  "start_url": "/Toolkit/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/Toolkit/assets/images/blacktocat.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      }
+  ]
+}
