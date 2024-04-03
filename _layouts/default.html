@@ -7,7 +7,32 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-{% seo %}
+    {% seo %}
+
+    <style>
+      /* Add CSS styles for mobile devices */
+      @media (max-width: 768px) {
+        /* Adjust header layout */
+        header {
+          text-align: center;
+        }
+        #a-title {
+          display: block;
+          margin-bottom: 10px;
+        }
+        h1, h2 {
+          font-size: 24px;
+        }
+        #downloads {
+          flex-direction: column;
+        }
+        .btn {
+          margin-bottom: 10px;
+        }
+      }
+
+      /* Add more media queries for other screen sizes if needed */
+    </style>
   </head>
 
   <body>
