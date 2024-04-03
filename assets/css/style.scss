@@ -10,8 +10,6 @@ li {
         border: 1px solid rgb(160, 160, 160);
         border-radius: 4px;
         margin-bottom: 0.5rem; // Add space between lines
-        transform: scale(1);
-        transition: all 0.3s ease-in-out;
     }
 }
 
@@ -22,8 +20,6 @@ p {
         border: 1px solid rgb(160, 160, 160);
         border-radius: 2px;
         margin-bottom: 0.5rem; // Add space between lines
-        transform: scale(1);
-        transition: all 0.3s ease-in-out;
     }
 }
 
@@ -34,14 +30,4 @@ td {
     border-radius: 2px;
     margin-bottom: 0.5rem; // Add space between lines
     margin-right: 0.5rem; // Add space between columns
-    transform: scale(1);
-    transition: all 0.3s ease-in-out;
-}
-
-a.hover {
-    transform: scale(1.01);
-}
-
-td.hover {
-    transform: scale(1.01);
 }
