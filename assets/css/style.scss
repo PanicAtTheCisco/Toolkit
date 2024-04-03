@@ -3,11 +3,15 @@
 
 @import 'jekyll-theme-hacker';
 
-li {
+a {
     display: inline-block;
     padding: 0.5rem;
     border: 1px solid #ccc;
     border-radius: 4px;
     text-decoration: none;
     margin-bottom: 0.5rem; // Add space between lines
+
+    a:not(.a-title) {
+        // Styles for all a tags except a-title class ones
+    }
 }
