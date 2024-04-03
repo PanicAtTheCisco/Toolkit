@@ -1,4 +1,4 @@
-# Navigation | Privacy & Security
+# Navigation / Privacy & Security
 [Home](index.md) | [About](about.md) | [OSINT Services](osint-services.md) | [Vuln DB](vuln-db.md) | [Privacy & Security](privacy-security.md) | [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md) | [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
 ### Privacy and Security Resources
@@ -14,4 +14,4 @@
 * [https://www.privacytools.io/](https://www.privacytools.io/)
 * [https://www.fakenamegenerator.com/](https://www.fakenamegenerator.com/)
 * [https://bugmenot.com/](https://bugmenot.com/)
-* [https://forum.level1techs.com/t/browser-hardening-privacy-anti-fingerprint-and-anti-telemetry-guide/198039](https://forum.level1techs.com/t/browser-hardening-privacy-anti-fingerprint-and-anti-telemetry-guide/198039) - Seems to cover "good enough" Firefox hardening
+* [Firefox Hardening](https://forum.level1techs.com/t/browser-hardening-privacy-anti-fingerprint-and-anti-telemetry-guide/198039) - Seems to cover "good enough" Firefox hardening
