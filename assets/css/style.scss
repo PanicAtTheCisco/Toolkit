@@ -24,8 +24,6 @@ p {
 }
 
 .btn-about {
-    &::before {
-        content: "?"; // Add question mark icon here
-        margin-right: 0.25rem;
-    }
+    opacity: 0.6;
+    background: url("about.png") 0 0 no-repeat;
 }
