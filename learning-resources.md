@@ -1,4 +1,4 @@
-# Navigation
+# Navigation | Learning Resources
 [Home](index.md) | [About](about.md) | [OSINT Services](osint-services.md) | [Vuln DB](vuln-db.md) | [Privacy & Security](privacy-security.md) | [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md) | [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
 ### Programming
@@ -11,6 +11,7 @@
 * [https://nodejs.org/learn/getting-started/introduction-to-nodejs](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
 * [https://dev.java/learn/](https://dev.java/learn/)
 * [https://www.learn-php.org/](https://www.learn-php.org/)
+
 ### System & Networking
 * [https://linuxjourney.com/](https://linuxjourney.com/)
 * [https://linux-training.be/](https://linux-training.be/)
@@ -19,6 +20,7 @@
 * [https://www.softwaretestinghelp.com/computer-networking-basics/](https://www.softwaretestinghelp.com/computer-networking-basics/)
 * [https://www.computernetworkingnotes.com/networking-tutorials/](https://www.computernetworkingnotes.com/networking-tutorials/)
 * [https://www.guru99.com/data-communication-computer-network-tutorial.html](https://www.guru99.com/data-communication-computer-network-tutorial.html)
+
 ### Training Labs
 * [https://tryhackme.com/](https://tryhackme.com/)
 * [https://app.hackthebox.com/](https://app.hackthebox.com/)
@@ -30,6 +32,7 @@
 * [https://pentesterlab.com/](https://pentesterlab.com/)
 * [https://owasp.org/www-project-webgoat/](https://owasp.org/www-project-webgoat/)
 * [https://owasp.org/www-project-secure-coding-dojo/](https://owasp.org/www-project-secure-coding-dojo/)
+
 ### Materials
 * [https://opensecuritytraining.info/Training.html](https://opensecuritytraining.info/Training.html)
 * [https://www.pentest-standard.org/index.php/Main_Page](https://www.pentest-standard.org/index.php/Main_Page)
@@ -39,6 +42,7 @@
 * [https://github.com/0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 * [https://mirror.parrot.sh/parrot/misc/openbooks/](https://mirror.parrot.sh/parrot/misc/openbooks/)
 * [https://freecomputerbooks.com/](https://freecomputerbooks.com/)
+
 ### Blogs & Researchers
 * [https://freecomputerbooks.com/](https://freecomputerbooks.com/)
 * [https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/](https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/) - May not work
@@ -55,8 +59,10 @@
 * [https://samcurry.net/blog/](https://samcurry.net/blog/)
 * [https://connormcgarr.github.io/](https://connormcgarr.github.io/)
 * [https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron](https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron)
+
 ### MITRE
 * [https://attack.mitre.org/](https://attack.mitre.org/)
 * [https://mitre-attack.github.io/attack-navigator/](https://mitre-attack.github.io/attack-navigator/)
+
 ### Misc.
 * [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nmap-cheat-sheet/)

@@ -1,4 +1,4 @@
-# Navigation
+# Navigation | CTFs/Challenges
 [Home](index.md) | [About](about.md) | [OSINT Services](osint-services.md) | [Vuln DB](vuln-db.md) | [Privacy & Security](privacy-security.md) | [Learning Resources](learning-resources.md) | [Useful GitHubRepos](useful-github-repos.md) | [Physical Security](physical-security.md) | [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
 ### Just a list of CTFs/ Challenges I have found fun
