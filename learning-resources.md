@@ -37,6 +37,7 @@
 * [Cloud Hacking Labs](https://crush3r.notion.site/5318732e7b6d4179857c5f99d3e94459?v=cdf66dcd37f243399c1a08ab5f317158)
 
 ### Materials
+* [Cybersecurity Stash](https://cybersecuritystash.com/)
 * [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
 * [pentest-standard.org](https://www.pentest-standard.org/index.php/Main_Page)
 * [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
@@ -45,6 +46,7 @@
 * [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 * [mirror.parrot.sh/misc/openbooks](https://mirror.parrot.sh/parrot/misc/openbooks/)
 * [freecomputerbooks.com](https://freecomputerbooks.com/)
+* [StationX Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
 
 ### Blogs & Researchers
 * [freecomputerbooks.com](https://freecomputerbooks.com/)
@@ -66,7 +68,3 @@
 ### MITRE
 * [attack.mitre.org](https://attack.mitre.org/)
 * [mitre-attack-navigator](https://mitre-attack.github.io/attack-navigator/)
-
-### Misc.
-* [stationx.net](https://www.stationx.net/nmap-cheat-sheet/)
-* [Cybersecurity Stash](https://cybersecuritystash.com/)
