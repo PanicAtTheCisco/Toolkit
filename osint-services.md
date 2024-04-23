@@ -3,6 +3,11 @@
 
 [OSINT Services](osint-services.md) | [Vuln DB](vuln-db.md) | [Privacy & Security](privacy-security.md) | [Learning Resources](learning-resources.md) | [Useful GitHub Repos](useful-github-repos.md) | [Physical Security](physical-security.md) | [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
+### General Tools
+* [osintframework.com](https://osintframework.com/)
+* [sn0int.com](https://sn0int.com/)
+* [web-check.xyz](https://web-check.xyz/)
+
 ### Air & Space Tracking
 * [globe.adsbexchange.com](https://globe.adsbexchange.com/)
 * [flightaware.com](https://www.flightaware.com/live/)
@@ -36,8 +41,3 @@
 * [hunter.io](https://hunter.io/)
 * [wigle.net](https://wigle.net/)
 * [webmii.com](https://webmii.com/)
-
-### Misc.
-* [osintframework.com](https://osintframework.com/)
-* [sn0int.com](https://sn0int.com/)
-* [web-check.xyz](https://web-check.xyz/)
