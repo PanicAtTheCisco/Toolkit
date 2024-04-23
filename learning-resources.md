@@ -34,6 +34,7 @@
 * [https://pentesterlab.com/](https://pentesterlab.com/)
 * [https://owasp.org/www-project-webgoat/](https://owasp.org/www-project-webgoat/)
 * [https://owasp.org/www-project-secure-coding-dojo/](https://owasp.org/www-project-secure-coding-dojo/)
+* [Cloud Hacking Labs](https://crush3r.notion.site/5318732e7b6d4179857c5f99d3e94459?v=cdf66dcd37f243399c1a08ab5f317158)
 
 ### Materials
 * [https://opensecuritytraining.info/Training.html](https://opensecuritytraining.info/Training.html)

@@ -55,17 +55,6 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
-
-        <div class="dropdown">
-          <button class="dropbtn">Table of Contents</button>
-          <div class="dropdown-content">
-            <ul>
-              {% for heading in page.content | scan_heading %}
-                <li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
       </div>
     </header>
 
