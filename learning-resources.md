@@ -34,6 +34,7 @@
 * [pentesterlab.com](https://pentesterlab.com/)
 * [owasp.org/webgoat](https://owasp.org/www-project-webgoat/)
 * [owasp.org/secure-coding-dojo](https://owasp.org/www-project-secure-coding-dojo/)
+* [Cloud Hacking Labs](https://crush3r.notion.site/5318732e7b6d4179857c5f99d3e94459?v=cdf66dcd37f243399c1a08ab5f317158)
 
 ### Materials
 * [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
@@ -68,3 +69,4 @@
 
 ### Misc.
 * [stationx.net](https://www.stationx.net/nmap-cheat-sheet/)
+* [Cybersecurity Stash](https://cybersecuritystash.com/)
