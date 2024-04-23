@@ -67,4 +67,5 @@
 * [https://mitre-attack.github.io/attack-navigator/](https://mitre-attack.github.io/attack-navigator/)
 
 ### Misc.
-* [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nmap-cheat-sheet/)
+* [stationx.net](https://www.stationx.net/nmap-cheat-sheet/)
+* [Cybersecurity Stash](https://cybersecuritystash.com/)
