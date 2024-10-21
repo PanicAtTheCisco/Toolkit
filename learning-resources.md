@@ -47,6 +47,7 @@
 * [mirror.parrot.sh/misc/openbooks](https://mirror.parrot.sh/parrot/misc/openbooks/){:target="_blank"}{:rel="noopener noreferrer"}
 * [freecomputerbooks.com](https://freecomputerbooks.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * [StationX Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/){:target="_blank"}{:rel="noopener noreferrer"}
+* [tib3rius SQLi Cheat Sheet](https://tib3rius.com/sqli.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Blogs & Researchers
 * [freecomputerbooks.com](https://freecomputerbooks.com/){:target="_blank"}{:rel="noopener noreferrer"}
