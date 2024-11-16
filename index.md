@@ -7,6 +7,7 @@
 * [GTFO Bins](https://gtfobins.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
 * [LOLBAS](https://lolbas-project.github.io/#){:target="_blank"}{:rel="noopener noreferrer"}
 * [Cyber Chef](https://gchq.github.io/CyberChef/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Aperisolve](https://www.aperisolve.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Google Earth](https://earth.google.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * [GeoSpy AI](https://geospy.web.app/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Dcode](https://www.dcode.fr/en){:target="_blank"}{:rel="noopener noreferrer"}
