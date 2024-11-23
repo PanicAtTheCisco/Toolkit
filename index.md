@@ -3,10 +3,11 @@
 
 [OSINT Services](osint-services.md) | [Vuln DB](vuln-db.md) | [Privacy & Security](privacy-security.md) | [Learning Resources](learning-resources.md) | [Useful GitHub Repos](useful-github-repos.md) | [Physical Security](physical-security.md) | [Bug Bounty](bug-bounty.md) | [CTFs/Challenges](ctfs-challenges.md)
 
-### Quick Access Tools
+### Quick Access
 * [HackTricks](https://book.hacktricks.xyz/){:target="_blank"}{:rel="noopener noreferrer"}
 * [GTFO Bins](https://gtfobins.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
 * [LOLBAS](https://lolbas-project.github.io/#){:target="_blank"}{:rel="noopener noreferrer"}
+* [HackTools](https://hacktools.sh/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Cyber Chef](https://gchq.github.io/CyberChef/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Aperisolve](https://www.aperisolve.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Google Earth](https://earth.google.com/){:target="_blank"}{:rel="noopener noreferrer"}
