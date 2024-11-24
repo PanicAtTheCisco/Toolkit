@@ -13,3 +13,4 @@
 * [trufflehog](https://github.com/trufflesecurity/trufflehog){:target="_blank"}{:rel="noopener noreferrer"}
 * [deepdarkCTI](https://github.com/fastfire/deepdarkCTI){:target="_blank"}{:rel="noopener noreferrer"}
 * [php-webshells](https://github.com/JohnTroony/php-webshells){:target="_blank"}{:rel="noopener noreferrer"}
+* [Red Team Cheat Sheet](https://github.com/kobs0N/Hacking-Cheatsheet){:target="_blank"}{:rel="noopener noreferrer"}
