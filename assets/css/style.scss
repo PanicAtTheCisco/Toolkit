@@ -32,6 +32,23 @@ td {
     margin-right: 0.5rem; // Add space between columns
 }
 
+.table-container {
+    position: relative;
+}
+
+.toggle-button {
+    display: none;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1001;
+}
+
 table {
     position: fixed;
     top: 0;
@@ -42,6 +59,7 @@ table {
     overflow-x: hidden;
     padding-top: 20px;
     z-index: 1000;
+    transition: transform 0.3s ease;
 
     td {
         display: block;
@@ -60,5 +78,19 @@ table {
 
     td a:hover {
         background-color: #575757;
+    }
+}
+
+@media (max-width: 768px) {
+    .toggle-button {
+        display: block;
+    }
+
+    table {
+        transform: translateX(-100%);
+    }
+
+    .table-container.active table {
+        transform: translateX(0);
     }
 }
