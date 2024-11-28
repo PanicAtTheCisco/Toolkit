@@ -40,7 +40,6 @@
   </head>
 
   <body>
-
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -62,60 +61,7 @@
       <section id="main_content">
         {{ content }}
       </section>
-
-      <aside id="sidebar">
-        {% include nav.html %}
-      </aside>
-  
-      <style>
-        /* Sidebar styles */
-        #sidebar {
-          position: fixed;
-          left: 0;
-          top: 0;
-          bottom: 0;
-          width: 250px;
-          background-color: #242424;
-          padding: 20px;
-          overflow-y: auto;
-        }
-  
-        /* Hide sidebar on mobile and show toggle button */
-        @media (max-width: 768px) {
-          #sidebar {
-            display: none;
-          }
-  
-          #sidebarToggle {
-            display: block;
-            position: fixed;
-            top: 20px;
-            left: 20px;
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            cursor: pointer;
-          }
-        }
-      </style>
-  
-      <button id="sidebarToggle">☰ Menu</button>
-  
-      <script>
-        // Toggle sidebar visibility on mobile
-        document.getElementById('sidebarToggle').addEventListener('click', function() {
-          var sidebar = document.getElementById('sidebar');
-          if (sidebar.style.display === 'block') {
-            sidebar.style.display = 'none';
-          } else {
-            sidebar.style.display = 'block';
-          }
-        });
-      </script>
     </div>
-
-    
 
     <a href="#" id="moveToTopButton" class="btn btn-move-to-top">Move to Top</a>
 
