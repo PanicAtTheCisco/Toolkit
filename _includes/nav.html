@@ -1,0 +1,11 @@
+<nav class="nav-primary" role="navigation"></nav>
+    <ul>
+        {% for p in site.pages %}
+            {% if p.path == p.url and p.extname == ".md" %}
+                <li>
+                    <a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
