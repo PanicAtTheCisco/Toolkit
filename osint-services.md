@@ -5,9 +5,11 @@
 
 ### General Tools
 * [osintframework.com](https://osintframework.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* [OSINT Toolbox](https://github.com/The-Osint-Toolbox){:target="_blank"}{:rel="noopener noreferrer"} - Large repository of all kinds of OSINT tools
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection){:target="_blank"}{:rel="noopener noreferrer"}
 * [sn0int.com](https://sn0int.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * [web-check.xyz](https://web-check.xyz/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Air & Space Tracking
 * [globe.adsbexchange.com](https://globe.adsbexchange.com/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -25,6 +27,7 @@
 * [opentraintimes.com](https://www.opentraintimes.com/maps){:target="_blank"}{:rel="noopener noreferrer"}
 * [satellites.pro](https://satellites.pro/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Bellingcat OSM](https://osm-search.bellingcat.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* [GeoSpy AI](https://geospy.web.app/){:target="_blank"}{:rel="noopener noreferrer"} - No longer free to use
 
 ### Camera Tracking
 * [insecam.org](http://www.insecam.org/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -43,3 +46,6 @@
 * [hunter.io](https://hunter.io/){:target="_blank"}{:rel="noopener noreferrer"}
 * [wigle.net](https://wigle.net/){:target="_blank"}{:rel="noopener noreferrer"}
 * [webmii.com](https://webmii.com/){:target="_blank"}{:rel="noopener noreferrer"}
+
+### Discord Bot
+* (Bosint)[https://bosint.gg/]{:target="_blank"}{:rel="noopener noreferrer"}
